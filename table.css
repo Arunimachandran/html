@@ -1,0 +1,16 @@
+table,th,td
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: aqua;
+}
+th{
+text-align: left;
+}
+
+th,td{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 30px;
+}

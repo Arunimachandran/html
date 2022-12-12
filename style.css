@@ -6,3 +6,7 @@ h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: medium;
 }
+body{
+    background-attachment: fixed;
+    
+}

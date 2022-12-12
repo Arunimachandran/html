@@ -1,0 +1,38 @@
+li{
+    float:right;
+ }
+ ul{
+     list-style-type: none;
+     overflow: hidden;
+     background-color: beige;
+     padding: 0;
+     margin: 0;
+ }
+ li a{
+     display: block;
+ 
+     padding: 10px;
+     text-decoration: none;
+     color: red;
+     text-align: center;
+ }
+ li a:hover{
+     background-color: aqua;
+ }
+ table,th,td{
+    border-collapse: collapse;
+    border: 1px solid black;
+ }
+ th,td{
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+ }
+ tr:hover{
+    background-color: aqua;
+ }
+ h1{
+    color: red;
+ }

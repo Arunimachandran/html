@@ -1,0 +1,27 @@
+/* ul{
+    list-style-type: circle;
+}
+/* ol{
+    list-style-type: lower-alpha;
+} */ 
+li{
+   float:right;
+}
+ul{
+    list-style-type: none;
+    overflow: hidden;
+    background-color: beige;
+    padding: 0;
+    margin: 0;
+}
+li a{
+    display: block;
+
+    padding: 10px;
+    text-decoration: none;
+    color: red;
+    text-align: center;
+}
+li a:hover{
+    background-color: aqua;
+}
