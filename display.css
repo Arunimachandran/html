@@ -1,0 +1,67 @@
+/* h1{
+    display:inline
+}
+img{
+    display: block;
+}
+li{
+    display: inline;
+} */
+/* *{
+margin: 0;
+
+}
+h1{
+    text-align: center;
+    background-color: aqua;
+}
+
+img{
+    padding-left: 10px;
+    padding-right: 10px;
+   margin-left: 30px;
+}
+body{
+
+
+    margin-top: 0;
+    background-color: bisque;
+
+    
+}
+h1:hover{
+    background-color: blueviolet;
+}
+     */
+ .a
+{
+   width: 200px;
+   height: auto;
+  
+  float: left;
+  padding-left: 10px;
+  
+   
+    /* border: 1px solid black; */
+  
+}
+/* .a img
+{
+   height:auto;
+    width: 100%;
+    
+
+    
+   
+    
+} */
+.para{
+    text-align: center;
+    /* padding: 20px; */
+    /* margin: 10px; */
+}
+.a:hover{
+    background-color: aqua;
+}
+
+ 
