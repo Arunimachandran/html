@@ -63,5 +63,8 @@ h1:hover{
 .a:hover{
     background-color: aqua;
 }
-
+div h1{
+    text-align: center;
+    color: brown;
+}
  

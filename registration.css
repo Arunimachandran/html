@@ -1,0 +1,26 @@
+div{
+    background-color: bisque;
+   color: black;
+   border: 1px solid black;
+   padding-left: 500px;
+  
+}
+div h1{
+    
+    color: brown;
+}
+
+
+input[type=submit]:hover{
+background-color: darkslategrey;
+}
+input[type=submit]{
+   background-color: gray;
+    margin-left: 60px;
+}
+textarea{
+   background-color: dimgray;
+}
+input[type=text]{
+    background-color: gray;
+    
