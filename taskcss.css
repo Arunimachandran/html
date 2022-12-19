@@ -2,7 +2,7 @@ h1{
     background-color: gray;
     color: red;
     text-align: center;
-    text-shadow: 5px,3px solid green;
+    text-shadow: 5px 3px green;
     border: 3px solid blue;
 }
 body{
@@ -13,9 +13,10 @@ body{
     text-align: justify;
     letter-spacing: 3px;
     word-spacing: 6px;
+    background-size: cover;
 }
 p{
-    border-style: double;
+    /* border-style: double; */
     border-top: dashed red ;
     border-right: double green;
     border-bottom: dotted cyan;

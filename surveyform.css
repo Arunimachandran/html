@@ -1,0 +1,15 @@
+div h1{
+    text-align: center;
+
+}
+div{
+    /* text-align: center; */
+    border: 1px solid black;
+    padding-left: 300px;
+    background-color: dimgrey;
+}
+ input[type=radio]{
+display: inline-block;
+/* width: auto; */
+/* padding-left: 10px */
+}
