@@ -6,11 +6,12 @@ table,th,td{
 }
     
 
-table th{
+/* table th{
     color: blue;
-}
+} */
 th{
     background-color: gray;
+    color: blue;
 }
 tr:nth-child(even){
     background-color: green ;

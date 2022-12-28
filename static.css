@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Style the header */
+  .header {
+    background-color: black;
+    padding: 20px;
+    text-align: left;
+  }
+  .topnav {
+    overflow: hidden;
+    background-color: black;
+  }
+  
+  /* Style the topnav links */
+  .topnav a {
+    float: right;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border: 2px;
+    border-radius: 10px;
+    margin-left: 25px;
+    /* margin-bottom: 20px; */
+    background-color: grey;
+  }
+  
+  /* Change color on hover */
+  .topnav a:hover {
+    background-color: green;
+    color: black;
+  }
+  .content{
+    height: 250px;
+    margin-top: 30px;
+    width: 70%;
+    margin-left: 209px;
+   
+  }
+  .left-col
+{
+    width: 70%;
+    float: left;
+}
+.sec-cont{
+    /* background-color: grey; */
+
+}
+  .image img {
+      
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    border: 9px solid gray;
+    
+  }
+  .para h1{
+    font-size: 28px;
+    margin-top: 21px;
+    font-weight: 100;
+  }
+  .para p{
+    font-size: 19px;
+    padding-top: 23px;
+  }
+  .list{
+    margin-top: 10px;
+  }
+  .list h3{
+    font-size: 22px;
+    color: aqua;
+  }
+  .list h6{
+    padding-top: 10px;
+    padding-bottom: 25px;
+    font-size: 16px;
+  }
+  .right col{
+    float: left;
+    width: 24%;
+}
+.right-box{
+height: 207px;
+border: 2px solid rgb(53,52,52);
+border-radius: 8px;
+margin-left: 72px;
+margin-top: 24px;
+}
+.right-box h2,h4,p,ul,li,a{
+    padding: 5PX;
+    
+}
+.right-box h4{
+    color: blueviolet;
+}
+
